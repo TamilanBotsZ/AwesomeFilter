@@ -10,27 +10,27 @@
 
 ## Features
 
-💥Auto Filter
-💥Manual Filter
-💥Tamil Coded Repo
-💥Funny Tamil Repo
-💥Auto Delete Feature
-💥Fully Attractive Fonts
-💥Bot Pm On/Off
-💥Protect Content
-💥Copyright Free Repo
-💥IMDB
-💥Admin Commands
-💥Broadcast
-💥Index
-💥IMDB search
-💥Inline Search
-💥Random pics
-💥ids and User info 
-💥Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-💥Spelling Check Feature
-💥File Store
-💥Many Features
+- 💥Auto Filter
+- 💥Manual Filter
+- 💥Tamil Coded Repo
+- 💥Funny Tamil Repo
+- 💥Auto Delete Feature
+- 💥Fully Attractive Fonts
+- 💥Bot Pm On/Off
+- 💥Protect Content
+- 💥Copyright Free Repo
+- 💥IMDB
+- 💥Admin Commands
+- 💥Broadcast
+- 💥Index
+- 💥IMDB search
+- 💥Inline Search
+- 💥Random pics
+- 💥ids and User info 
+- 💥Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+- 💥Spelling Check Feature
+- 💥File Store
+- 💥Many Features
 ## Variables
 
 Read [this](https://telegram.dog/Tamilan_BotsZ/7) before you start messing up with your edits.
