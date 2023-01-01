@@ -27,7 +27,8 @@
 - 💥Inline Search
 - 💥Random pics
 - 💥ids and User info 
-- 💥Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+- 💥User and Chats
+- 💥Ban And Unban
 - 💥Spelling Check Feature
 - 💥File Store
 - 💥Many Features
