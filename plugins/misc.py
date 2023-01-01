@@ -144,7 +144,7 @@ async def imdb_search(client, message):
             ]
             for movie in movies
         ]
-        await k.edit('Hᴇʀᴇ ɪs ᴡʜᴀᴛ ɪ ғᴏᴜɴᴅ ᴏɴ IMDʙ,' reply_markup=InlineKeyboardMarkup(btn))
+        await k.edit('Hᴇʀᴇ ɪs ᴡʜᴀᴛ ɪ ғᴏᴜɴᴅ ᴏɴ IMDʙ', reply_markup=InlineKeyboardMarkup(btn))
     else:
         await message.reply('Gɪᴠᴇ Mᴇ Mᴏᴠɪᴇ / Sᴇʀɪᴇs Nᴀᴍᴇ')
 
