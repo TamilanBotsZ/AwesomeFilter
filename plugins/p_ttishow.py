@@ -22,7 +22,7 @@ async def save_group(bot, message):
         if message.chat.id in temp.BANNED_CHATS:
             # Inspired from a boat of a banana tree
             buttons = [[
-                InlineKeyboardButton(''✨ Uᴘᴅᴀᴛᴇ 👩‍💻, url=f'https://t.me/{SUPPORT_CHAT}')
+                InlineKeyboardButton('✨ Uᴘᴅᴀᴛᴇ 👩‍💻', url=f'https://t.me/{SUPPORT_CHAT}')
             ]]
             reply_markup=InlineKeyboardMarkup(buttons)
             k = await message.reply(
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             return
         buttons = [[
             InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            InlineKeyboardButton('👩‍💻 Rᴇᴘᴏ', url='https://Github.Com/TamilanBotsZ/AwesomeFilter')
+            InlineKeyboardButton('👩‍💻 Rᴇᴘᴏ', url='https://Github.Com/TamilanBotsZ/AwesomeFilter'),
             InlineKeyboardButton('📢 Updates', url='https://t.me/Tamilan_BotsZ')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
