@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/72d3cbd3ef6154fb780cb.jpg" alt="Eva Maria Logo">
+  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="AwesomeFilter Logo">
 </p>
 <h1 align="center">
-  <b>TechMagazine AutoFilter Bot</b>
+  <b>Awesome AutoFilter Bot</b>
 </h1>
 
 
