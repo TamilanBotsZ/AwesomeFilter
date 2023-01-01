@@ -85,7 +85,7 @@ async def del_all(message, group_id, title):
     mycol = mydb[str(group_id)]
     try:
         mycol.drop()
-        await message.edit_text(f"Aʟʟ Fɪʟᴛᴇʀs Rᴇᴍᴏᴠᴇ Fʀᴏᴍ  {title} Hᴀs Rᴇᴍᴏᴠᴇᴅ)
+        await message.edit_text("Aʟʟ Fɪʟᴛᴇʀs Rᴇᴍᴏᴠᴇ Fʀᴏᴍ  {title} Hᴀs Rᴇᴍᴏᴠᴇᴅ")
     except:
         await message.edit_text("😬 Eʟʟᴀ Fɪʟᴛᴇʀs Uᴍ Gʀᴏᴜᴘ Lᴀ Eʀᴜɴᴛʜᴜ Dᴇʟᴇᴛᴇ Pᴀɴɴᴀ Mᴜᴅɪʏᴀᴛʜᴜ 😬!")
         return
