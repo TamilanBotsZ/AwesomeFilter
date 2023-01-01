@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/72d3cbd3ef6154fb780cb.jpg" alt="Eva Maria Logo">
+  <img src="https://te.legra.ph/file/12d811d8bd6d19299f369.jpg" alt="AwesomeFilter Logo">
 </p>
 <h1 align="center">
-  <b>TechMagazine AutoFilter Bot</b>
+  <b>Awesome AutoFilter Bot</b>
 </h1>
 
 
@@ -10,22 +10,30 @@
 
 ## Features
 
-- [x] Auto Filter
-- [x] Manual Filter
-- [x] IMDB
-- [x] Admin Commands
-- [x] Broadcast
-- [x] Index
-- [x] IMDB search
-- [x] Inline Search
-- [x] Random pics
-- [x] ids and User info 
-- [x] Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
-- [x] Spelling Check Feature
-- [x] File Store
+💥Auto Filter
+💥Manual Filter
+💥Tamil Coded Repo
+💥Funny Tamil Repo
+💥Auto Delete Feature
+💥Fully Attractive Fonts
+💥Bot Pm On/Off
+💥Protect Content
+💥Copyright Free Repo
+💥IMDB
+💥Admin Commands
+💥Broadcast
+💥Index
+💥IMDB search
+💥Inline Search
+💥Random pics
+💥ids and User info 
+💥Stats, Users, Chats, Ban, Unban, Leave, Disable, Channel
+💥Spelling Check Feature
+💥File Store
+💥Many Features
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://telegram.dog/Tamilan_BotsZ/7) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -47,7 +55,7 @@ You can deploy this bot anywhere.
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/gNCd8xuNgM8)**</i>
 
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/itsyogieu/TechMagazine-AutoFilterBot/deploy-buttons&branch=master&name=tmafbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/AwesomeFilter/deploy-buttons&branch=master&name=@Tamilan_BotsZ"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 
 
@@ -55,7 +63,7 @@ You can deploy this bot anywhere.
 <p>
 
 
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/TechMagazine-AutoFilterBot)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/AwesomeFilter)
 
 </p>
 </details>
@@ -63,7 +71,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/itsyogieu/TechMagazine-AutoFilterBot
+git clone https://github.com/TamilanBotsZ/AwesomeFilter
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -104,22 +112,14 @@ python3 bot.py
 
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![TamilanBotsZ-Devs](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 
 ## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
-
-
-
-
+ - Thanks To Me🤩
+ - Thanks To Eva Marie Devs❣️
+ - Thanks To Our Repo User😇
 
 ## Disclaimer
 
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
-
-
+Intha Repo Va Fork & Star Pannikalam But Import Panni Sell Panna Kudathu 😡
