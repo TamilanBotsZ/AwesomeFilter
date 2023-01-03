@@ -5,7 +5,7 @@
   <b>Awesome AutoFilter Bot</b>
 </h1>
 
-
+𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :- 0.2
 
 
 ## Features
