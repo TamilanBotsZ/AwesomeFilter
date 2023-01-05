@@ -113,8 +113,7 @@ python3 bot.py
 
 ## Credits 
 * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
-
-* [![Promoted This Repo](https://img.shields.io/static/v1?label=Grey Matters&message=devs&color=critical)](https://telegram.dog/GreyMatter_Bots)
+* [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 
 
