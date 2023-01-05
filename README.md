@@ -113,13 +113,14 @@ python3 bot.py
 
 ## Credits 
 * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
-* [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
+* [![Promoted This Repo](https://img.shields.io/static/v1?label=GreyMatters&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 
 
 ## Thanks to 
  - Thanks To Me🤩
  - Thanks To Eva Marie Devs❣️
+ - Thanks To Grey Matter's (For His Promotion) ❣️
  - Thanks To Our Repo User😇
 
 ## Disclaimer
