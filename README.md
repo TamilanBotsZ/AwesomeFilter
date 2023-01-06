@@ -140,9 +140,11 @@ ban - 🤕ʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
-
-<details><summary>🧑‍💻 Link Shortner Support Repo 🤑</summary>
-<p> You Want AutoFilter Bot Repo With Link Shortner Support Repo At Cheap Price :- Dm In Telegram https://tx.me/Sharathitsisme
+<details><summary>🧑‍💻 URL Shortner Support Repo 🤑</summary>
+<p>
+<br>
+<a href="https://tx.me/Sharathitsisme">
+  <img src="https://te.legra.ph/file/2ad463cc047fa164891ed.jpg"
 
 ## Credits 
 Repo Owner & Creator * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
