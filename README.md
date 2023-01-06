@@ -36,12 +36,7 @@
 
 ## Messing Editz Follow This 👇
 
-```
-Join our Updates channel 💗 
-Fork This Repo 🍴 
-Star This Repo 🌟 
-Support Tamilan Developer 💥
-```
+Join our Updates channel 💗 Fork This Repo 🍴 Star This Repo 🌟 Support Tamilan Developer 💥
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -145,6 +140,9 @@ ban - 🤕ʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
+
+<details><summary>🧑‍💻 Link Shortner Support Repo 🤑</summary>
+<p> You Want AutoFilter Bot Repo With Link Shortner Support Repo At Cheap Price :- Dm In Telegram https://tx.me/Sharathitsisme
 
 ## Credits 
 Repo Owner & Creator * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
