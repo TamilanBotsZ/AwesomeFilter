@@ -36,7 +36,7 @@
 
 ## Messing Editz Follow This 👇
 
-Join our Updates channel 💗 Fork This Repo 🍴 Star This Repo 🌟 Support Tamilan Developer 💥
+ - 💗 Star This Repo 🌟 Support Tamilan Developer 💥
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -48,6 +48,10 @@ Join our Updates channel 💗 Fork This Repo 🍴 Star This Repo 🌟 Support Ta
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/jS_nLQ8i2EQ )
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * Check [info.py](https://github.com/TamilanBotsz/AwesomeFilter/blob/master/info.py) for more variables
+
+## Url Shortner Support Repo 💥
+ - 
+<p> ☎️ Dm Me In Telegram ;- https://tx.me/Sharathitsisme
 
 ## Deploy
 You can deploy this bot anywhere.
@@ -140,15 +144,6 @@ ban - 🤕ʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
-## Url Shortner Support Repo 💥
-
-<details><summary>🧑‍💻 Money earning Repo 🤑</summary>
- - 
-<p> ☎️ Dm Me In Telegram ;- https://tx.me/Sharathitsisme
-<br>
-</a>
-  </p>
-  </details>
 
 ## Credits 
 Repo Owner & Creator * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
