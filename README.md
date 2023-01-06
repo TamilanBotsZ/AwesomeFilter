@@ -34,9 +34,9 @@
 - 💥File Store
 - 💥Many Features
 
-## Variables
+## Messing Editz
 
-
+Before Messing Editz 🤕 ("💗Join our Updates Channel🖇️" url="https://telegram.dog/TamilanBotsZ")
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -127,9 +127,19 @@ go build .
 
 ## Commands
 ```
-
+start -✨ ᴄʜᴇᴄᴋ ᴀʟɪᴠᴇ/ɢᴇᴛ ғɪʟᴇs 
+stats - 👩‍💻ʙᴏᴛ sᴛᴀᴛs
+connect - 😇ᴄᴏɴɴᴇᴄᴛ ᴛᴏ ᴜʀ ɢʀᴏᴜᴘ
+info - ℹ️ɢᴇᴛ ᴜʀ ɪɴғᴏ
+imdb - 📇ɢᴇᴛ ɪᴍᴅʙ ɪɴғᴏ
+users - 💗ʟɪsᴛ ᴏғ ᴛᴏᴛᴀʟ ᴜsᴇʀs
+index - 📁ɪɴᴅᴇx ғɪʟᴇs
+chats - 🕳️ᴛᴏᴛᴀʟ ᴄʜᴀᴛs ɪɴғᴏ
+broadcast - 🔮ʙʀᴏᴀᴅᴄᴀsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ )
+ban - 🤕ʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
+unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
+link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
-
 
 ## Credits 
 Repo Owner & Creator * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
