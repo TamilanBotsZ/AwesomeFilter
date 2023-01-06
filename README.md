@@ -34,9 +34,14 @@
 - 💥File Store
 - 💥Many Features
 
-## Messing Editz
+## Messing Editz Follow This 👇
 
-Before Messing Editz 🤕 ('💗Join our Updates Channel🖇️', url='https://telegram.dog/TamilanBotsZ')
+```
+Join our Updates channel 💗 
+Fork This Repo 🍴 
+Star This Repo 🌟 
+Support Tamilan Developer 💥
+```
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
