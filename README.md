@@ -53,11 +53,13 @@ Read [this](https://telegram.dog/Tamilan_BotsZ/7) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/gNCd8xuNgM8)**</i>
+<details><summary>Deploy To Koyeb</summary>
+<p>
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/AwesomeFilter/deploy-buttons&branch=master&name=@Tamilan_BotsZ"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
-
+</p>
+</details>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
