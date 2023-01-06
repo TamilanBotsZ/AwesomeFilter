@@ -140,7 +140,9 @@ ban - 🤕ʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 unban - 🙇ᴜɴʙᴀɴ ᴀɴʏ ᴜsᴇʀ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 ```
-<details><summary>🧑‍💻 URL Shortner Support Repo 🤑</summary>
+## Url Shortner Support Repo 💥
+
+<details><summary>🧑‍💻 Money earning Repo 🤑</summary>
 <p>
 <br>
 <a href="https://tx.me/Sharathitsisme">
