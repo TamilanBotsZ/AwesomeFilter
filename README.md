@@ -5,7 +5,7 @@
   <b>Awesome AutoFilter Bot</b>
 </h1>
 
-👩‍💻 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :- 0.2 ✨
+👩‍💻 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :- 0.3 ✨
 
 
 ## Features
@@ -31,9 +31,10 @@
 - 💥Spelling Check Feature
 - 💥File Store
 - 💥Many Features
+
 ## Variables
 
-Read [this](https://telegram.dog/Tamilan_BotsZ/7) before you start messing up with your edits.
+
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -44,18 +45,12 @@ Read [this](https://telegram.dog/Tamilan_BotsZ/7) before you start messing up wi
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/jS_nLQ8i2EQ )
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/jS_nLQ8i2EQ )
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-### Optional Variables
-* `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
-* `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
-
+* Check [info.py](https://github.com/TamilanBotsz/AwesomeFilter/blob/master/info.py) for more variables
 
 ## Deploy
 You can deploy this bot anywhere.
 
-<details><summary>💥 Click Here To Depoly 👇</summary>
-
-<p><details><summary>Deploy To Heroku {Paid}</summary>
+<details><summary>Deploy To Heroku {Paid}</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/TamilanBotsZ/AwesomeFilter">
@@ -138,8 +133,6 @@ go build .
 Repo Owner & Creator * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
 
 Promoted This Repo * [![Promoted This Repo](https://img.shields.io/static/v1?label=GreyMatters&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
-
-
 
 ## Thanks to 
  - Thanks To Me🤩
