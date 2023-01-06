@@ -36,7 +36,7 @@
 
 ## Messing Editz Follow This 👇
 
- - 💗 Star This Repo 🌟 Support Tamilan Developer 💥
+ - 💗 Star This Repo 🌟 - Support Tamilan Developer 💥 -
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -50,7 +50,6 @@
 * Check [info.py](https://github.com/TamilanBotsz/AwesomeFilter/blob/master/info.py) for more variables
 
 ## Url Shortner Support Repo 💥
- - 
 <p> ☎️ Dm Me In Telegram ;- https://tx.me/Sharathitsisme
 
 ## Deploy
