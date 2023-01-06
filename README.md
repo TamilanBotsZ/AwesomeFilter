@@ -146,7 +146,7 @@ link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 <p>
 <br>
 <a href="https://tx.me/Sharathitsisme">
-  <img src="https://te.legra.ph/file/059728a9689d5a8eebc69.jpg"
+  <img src="https://te.legra.ph/file/059728a9689d5a8eebc69.png"
 </a>
   </p>
   </details>
