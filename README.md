@@ -144,7 +144,10 @@ link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 <p>
 <br>
 <a href="https://tx.me/Sharathitsisme">
-  <img src="https://te.legra.ph/file/2ad463cc047fa164891ed.jpg"
+  <img src="https://te.legra.ph/file/059728a9689d5a8eebc69.jpg"
+</a>
+  </p>
+  </details>
 
 ## Credits 
 Repo Owner & Creator * [![TamilanBotsZ-Owner](https://img.shields.io/static/v1?label=TamilanBotsZ&message=devs&color=critical)](https://telegram.dog/Tamilan_BotsZ)
