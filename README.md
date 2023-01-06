@@ -53,7 +53,8 @@ Read [this](https://telegram.dog/Tamilan_BotsZ/7) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<details><summary>Deploy To Koyeb</summary>
+<details><summary>💥 Click Here To Depoly 👇</summary>
+
 <p><details><summary>Deploy To Heroku {Paid}</summary>
 <p>
 <br>
