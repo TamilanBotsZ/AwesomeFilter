@@ -49,8 +49,8 @@
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 * Check [info.py](https://github.com/TamilanBotsz/AwesomeFilter/blob/master/info.py) for more variables
 
-## Url Shortner Support Repo 💥
-<p> ☎️ Dm Me In Telegram ;- https://tx.me/Sharathitsisme
+## Url Shortner Repo Available 💥
+<p>( 🤑 Link Shortner Repo At Cheap Price 🤑 ) Dm Me ;- https://tx.me/Sharathitsisme
 
 ## Deploy
 You can deploy this bot anywhere.
