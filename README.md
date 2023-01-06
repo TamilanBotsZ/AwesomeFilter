@@ -146,7 +146,7 @@ link - 🖇️ʟɪɴᴋ ᴛᴏ ᴘᴏsᴛ (ᴀᴅᴍɪɴ ᴏɴʟʏ)
 <p>
 <br>
 <a href="https://tx.me/Sharathitsisme">
-  <img src= alt="Link Shortner">
+  <img src= "" alt="Dm Me In Telegram">
 </a>
   </p>
   </details>
