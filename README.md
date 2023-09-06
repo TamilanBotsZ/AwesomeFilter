@@ -4,8 +4,8 @@
   </p>
   <h1 align="center">
     <b> 𝗔𝗪𝗘𝗦𝗢𝗠𝗘 𝗙𝗜𝗟𝗧𝗘𝗥</b>
-    </h1>
-
+  </h1>
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TamilanBotsZ/AwesomeFilter)   
 👩‍💻 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :- 0.3 ✨
 
 
